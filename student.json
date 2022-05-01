@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Janusz Skowron",
+        "description": "Mądry ja",
+        "tagList": ["tag", "tag1", "tag3"],
+        "subjectList": ["UCISW"],
+        "email" : "janusz@email.com"
+    },
+    {
+        "name": "Jan Konowicz",
+        "description": "Choroszcz",
+        "tagList": ["gag", "gag1", "gag2"],
+        "subjectList": ["IOb"],
+        "email" : "jan@email.com"
+    },
+    {
+        "name": "Jakub Kubowski",
+        "description": "Ja, kuba",
+        "tagList": ["Troja", "Troja1", "Troja2"],
+        "subjectList": ["IO"],
+        "email" : "jakub@email.com"
+    },
+    {
+        "name": "Izabela Lecka",
+        "description": "Pierwsza taka na świecie",
+        "tagList": ["kamienice", "ruble", "dolary"],
+        "subjectList": ["Wokulski"],
+        "email" : "izabela@email.com"
+    },
+    {
+        "name": "Student",
+        "description": "Anonimowy student",
+        "tagList": ["tag", "tag1", "tag3"],
+        "subjectList": ["UCISW"],
+        "email" : "email@email.com"
+    }
+]

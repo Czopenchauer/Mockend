@@ -4,7 +4,7 @@
         "password": "password"
     },
     {
-        "name": "admin@admin.com",
-        "description": "pwd"
+        "email": "admin@admin.com",
+        "password": "pwd"
     }
 ]
